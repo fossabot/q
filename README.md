@@ -1,5 +1,6 @@
 [![Build Status](https://secure.travis-ci.org/kriskowal/q.svg?branch=master)](http://travis-ci.org/kriskowal/q)
 [![CDNJS](https://img.shields.io/cdnjs/v/q.js.svg)](https://cdnjs.com/libraries/q.js)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fq.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fq?ref=badge_shield)
 
 <a href="http://promises-aplus.github.com/promises-spec">
     <img src="http://kriskowal.github.io/q/q.png" align="right" alt="Q logo" />
@@ -872,3 +873,6 @@ You can view the results of the Q test suite [in your browser][tests]!
 Copyright 2009–2017 Kristopher Michael Kowal and contributors
 MIT License (enclosed)
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fq.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fq?ref=badge_large)
